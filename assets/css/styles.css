@@ -1,0 +1,90 @@
+#main{
+	background:url('../img/download.png') no-repeat;
+	background-size: : 
+	box-shadow:0 1px 1px #ccc, 0 0 2px #ccc;
+	border-radius:2px 2px 5px 5px;
+	width:577px;
+	height:300px;
+	padding-top:45px;
+	text-align:center;
+	margin:30px auto 10px;
+}
+
+body {
+    padding-top: 90px;
+    background-color: #fff;
+}
+.coverdiv{
+	border-color: #A9A9A9;
+	-webkit-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.2);
+	-moz-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.2);
+	box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.2);
+	padding: 0;
+}
+.main {
+	background:url('../img/RUC_logo.png') no-repeat;
+	background-position: center; 
+	padding: 0;
+	height: 300px
+}
+
+.googleButton{
+	background-color: #eee;
+	text-align: center;
+	
+}
+a.googleLoginButton{
+	display:inline-block;
+	width:253px;
+	height:62px;
+	background:url('../img/button_google.png') no-repeat;
+		background-size: cover;
+	background-position: center; 
+	text-indent:-9999px;
+	overflow:hidden;
+}
+
+/* PAGE 2 Code verify*/
+
+
+.codeVerfiy{
+text-align: center;
+}
+
+.rucheader{
+	padding: 0;
+}
+.banner{
+	height: 50px;
+	background-color: #DF600D;
+	
+
+}
+.rucHeaderContent{
+	 font-size: 40px;
+	
+	color: #fff;
+}
+.banner-line{
+	height:10px;
+	background-color: #ECBC49;
+}
+.signUp{
+	color: #DF600D;
+}
+.codeBox input:hover,
+.codeBox input:focus {
+	outline:none;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	border-color: #ccc;
+}
+
+.formRow{
+	padding-bottom: 2%
+}
+.getCodebtn{
+	background-color: #DF600D;
+	color:#fff;
+}
